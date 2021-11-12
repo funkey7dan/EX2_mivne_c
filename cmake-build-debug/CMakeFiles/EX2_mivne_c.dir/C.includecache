@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daniel/CLionProjects/EX2_mivne_c/ex2.c
+stdio.h
+-
+limits.h
+-
+ex2.h
+/home/daniel/CLionProjects/EX2_mivne_c/ex2.h
+
+/home/daniel/CLionProjects/EX2_mivne_c/ex2.h
+

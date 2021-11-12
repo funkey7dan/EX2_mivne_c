@@ -1,0 +1,3 @@
+/home/daniel/CLionProjects/EX2_mivne_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/daniel/CLionProjects/EX2_mivne_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daniel/CLionProjects/EX2_mivne_c/cmake-build-debug/CMakeFiles/EX2_mivne_c.dir
