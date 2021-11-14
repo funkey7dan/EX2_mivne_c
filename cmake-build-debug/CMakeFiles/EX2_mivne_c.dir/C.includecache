@@ -6,13 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/daniel/CLionProjects/EX2_mivne_c/ex2.c
+/mnt/c/Users/funke/CLionProjects/EX2_mivne_c/ex2.h
+
+/mnt/c/Users/funke/CLionProjects/EX2_mivne_c/test_main.c
 stdio.h
 -
-limits.h
--
 ex2.h
-/home/daniel/CLionProjects/EX2_mivne_c/ex2.h
-
-/home/daniel/CLionProjects/EX2_mivne_c/ex2.h
+/mnt/c/Users/funke/CLionProjects/EX2_mivne_c/ex2.h
 

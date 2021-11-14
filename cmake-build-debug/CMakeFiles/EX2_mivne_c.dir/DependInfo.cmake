@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/daniel/CLionProjects/EX2_mivne_c/ex2.c" "/home/daniel/CLionProjects/EX2_mivne_c/cmake-build-debug/CMakeFiles/EX2_mivne_c.dir/ex2.c.o"
-  "/home/daniel/CLionProjects/EX2_mivne_c/main1.c" "/home/daniel/CLionProjects/EX2_mivne_c/cmake-build-debug/CMakeFiles/EX2_mivne_c.dir/main1.c.o"
+  "/mnt/c/Users/funke/CLionProjects/EX2_mivne_c/ex2.c" "/mnt/c/Users/funke/CLionProjects/EX2_mivne_c/cmake-build-debug/CMakeFiles/EX2_mivne_c.dir/ex2.c.o"
+  "/mnt/c/Users/funke/CLionProjects/EX2_mivne_c/test_main.c" "/mnt/c/Users/funke/CLionProjects/EX2_mivne_c/cmake-build-debug/CMakeFiles/EX2_mivne_c.dir/test_main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

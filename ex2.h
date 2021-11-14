@@ -8,7 +8,7 @@ typedef magnitude;
 magnitude add(magnitude a, magnitude b); // a + b
 magnitude sub(magnitude a, magnitude b); // a - b
 magnitude multi(magnitude a, magnitude b); // a * b
-unsigned int get_mag(magnitude a);
+magnitude get_mag(magnitude a);
 // true = 1, false = 0
 int equal(magnitude a, magnitude b); // a = b
 int greater(magnitude a, magnitude b); // a > b

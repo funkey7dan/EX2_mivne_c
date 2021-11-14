@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/EX2_mivne_c.dir/ex2.c.o"
-  "CMakeFiles/EX2_mivne_c.dir/main1.c.o"
+  "CMakeFiles/EX2_mivne_c.dir/test_main.c.o"
   "EX2_mivne_c"
   "EX2_mivne_c.pdb"
 )
