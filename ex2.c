@@ -1,4 +1,4 @@
-// ***REMOVED*** Daniel Bronfman
+//  Daniel Bronfman
 
 #include <stdio.h>
 #include "ex2.h"
